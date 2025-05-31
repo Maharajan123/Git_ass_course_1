@@ -5,3 +5,6 @@ Age : 21
 
 Mobile : 7339520171
 Location : Devakottai
+
+Role : SE
+Batch : python
